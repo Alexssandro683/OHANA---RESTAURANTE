@@ -1,0 +1,14 @@
+[
+    {
+        "número da mesa": 1,
+        "situação da mesa": "livre",
+        "nome da mesa reservada": "",
+        "número de telefone": ""
+    },
+    {
+        "número da mesa": 2,
+        "situação da mesa": "reservada",
+        "nome da mesa reservada": "karla",
+        "número de telefone": "87981468876"
+    }
+]
